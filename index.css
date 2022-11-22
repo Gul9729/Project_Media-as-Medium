@@ -1,0 +1,137 @@
+.frame{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.header1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 160px;
+    gap: 752px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+}
+.header2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 160px;
+    gap: 752px;
+}
+.arrayLogo{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+}
+ .newsFill{
+  display: flex;
+  flex-direction: column;  
+  align-items: flex-start;
+  padding: 96px 160px 36px;
+  gap: 100px;
+  
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 70px;
+}
+.frame23{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 697px;
+}
+.infoTop{
+    display: flex;
+    align-items: center;
+    gap:16px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.info2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 4px;
+}
+.text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+}
+.logo{
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+}
+.text{
+    flex-direction: column;
+    align-items: flex-start;
+    gap:24px;
+}
+.p1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 38px;
+    align-items: center;
+    color: #000000;
+}
+.p2{
+    font-family: 'SF Pro Display ';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    align-items: center;
+    color: #000000;
+
+}
+.contentText{
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+}
+.header{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    align-items: center;
+    color: #000000;
+}
+.fullText{
+    font-family: 'SF Pro Display ';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    align-items: center;
+    color: #000000;
+}
+
